@@ -474,6 +474,16 @@
 			"th14_custom",
 			"v1.00bp",
 			"(original, Playism)"
+		],
+		"67a642357c8777089f468aab9c7a0ae346ebdb62849d842a7b7b18d1e6910364": [
+			"th15",
+			"v1.00b",
+			"(original)"
+		],
+		"19ecb186f031fc40ed60b6a80a587e957e2add5289d02d2e02e47820efcf44e5": [
+			"th15_custom",
+			"v0.01b",
+			"(original)"
 		]
 	},
 	"sizes": {
@@ -701,6 +711,11 @@
 			"th14_custom",
 			"v1.00bp",
 			"(original, Playism)"
+		],
+		"951808": [
+			"th15",
+			"v1.00b",
+			"(original)"
 		]
 	}
 }
