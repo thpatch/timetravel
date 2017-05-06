@@ -9,8 +9,8 @@
 	},
 	"id": "script_latin",
 	"servers": [
-		"http://thcrap.nmlgc.net/repos/nmlgc/script_latin/",
-		"https://raw.githubusercontent.com/nmlgc/thcrap-nmlgc/master/script_latin/"
+		"http://thcrap.nmlgc.net/repos/timetravel/script_latin/",
+		"https://raw.githubusercontent.com/thpatch/timetravel/master/script_latin/"
 	],
 	"title": "Shared data for languages using Latin script"
 }

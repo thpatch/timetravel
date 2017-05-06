@@ -4,8 +4,8 @@
 	],
 	"id": "bitch",
 	"servers": [
-		"http://thcrap.nmlgc.net/repos/nmlgc/bitch/",
-		"https://raw.githubusercontent.com/nmlgc/thcrap-nmlgc/master/bitch/"
+		"http://thcrap.nmlgc.net/repos/timetravel/bitch/",
+		"https://raw.githubusercontent.com/thpatch/timetravel/master/bitch/"
 	],
 	"title": "Keep Marisa's \"bitch\" line in TH08"
 }

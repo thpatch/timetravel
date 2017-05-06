@@ -1,5 +1,5 @@
 {
-	"patch.js": 3658893932,
+	"patch.js": 3731840366,
 	"th07/data/etama/etama.png": 2701401367,
 	"th07/data/etama/etama2.png": 1567187378,
 	"th08/data/etama/etama.png": 441919118,

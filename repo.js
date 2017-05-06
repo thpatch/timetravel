@@ -1,6 +1,6 @@
 {
 	"contact": "thcrap@nmlgc.net",
-	"id": "nmlgc",
+	"id": "timetravel",
 	"neighbors": [
 		"http://srv.thpatch.net"
 	],
@@ -15,8 +15,8 @@
 		"western_name_order": "Western name order"
 	},
 	"servers": [
-		"http://thcrap.nmlgc.net/repos/nmlgc/",
-		"https://raw.githubusercontent.com/nmlgc/thcrap-nmlgc/master/"
+		"http://thcrap.nmlgc.net/repos/timetravel/",
+		"https://raw.githubusercontent.com/thpatch/timetravel/master/"
 	],
-	"title": "Nmlgc's patch repository"
+	"title": "Time-travel version of Nmlgc's patch repository"
 }
