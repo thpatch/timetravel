@@ -18,6 +18,13 @@
 		},
 		"music_title_prepare": {
 			"addr": "Rx6b81e"
+		},
+		"ddc_textbox_size_full": {
+			"addr": [
+				"Rx382f0",
+				"Rx384f4"
+			],
+			"code": "51e8[GetTextExtent]f30f100d10ff4c0083e81c730331c090"
 		}
 	},
 	"breakpoints": {
