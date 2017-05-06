@@ -4,6 +4,17 @@
 			"addr": [
 				"Rx07840"
 			]
+		},
+		"sprintf_call_ebp-88": {
+			"addr": [
+				"Rx869ed"
+			]
+		},
+		"sprintf_rep": {
+			"addr": [
+				"Rx86a98",
+				"Rx86aab"
+			]
 		}
 	},
 	"breakpoints": {
