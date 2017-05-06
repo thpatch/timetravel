@@ -111,5 +111,6 @@
 	"th14_custom/stringlocs.v1.00bp.js": 2466651306,
 	"th15.js": 3269774476,
 	"th15.v1.00b.js": 859601729,
+	"th15/ascii/ascii_960.png": 2497078814,
 	"versions.js": 1452409131
 }
