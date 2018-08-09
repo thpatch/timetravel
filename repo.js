@@ -1,9 +1,6 @@
 {
 	"contact": "thcrap@nmlgc.net",
-	"id": "nmlgc",
-	"neighbors": [
-		"http://srv.thpatch.net"
-	],
+	"id": "timetravel",
 	"patches": {
 		"aero": "Enable Aero compositing",
 		"base_tsa": "Basic support for Team Shanghai Alice games",
@@ -11,8 +8,7 @@
 		"western_name_order": "Western name order"
 	},
 	"servers": [
-		"http://thcrap.nmlgc.net/repos/nmlgc/",
-		"http://mirrors.thpatch.net/nmlgc/"
+		"http://thcrap.nmlgc.net/repos/timetravel/"
 	],
-	"title": "Nmlgc's patch repository"
+	"title": "TH16.5 time-travel practice repository"
 }
